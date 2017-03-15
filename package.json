@@ -1,0 +1,23 @@
+{
+  "name": "github-data",
+  "version": "1.0.0",
+  "description": "Get GitHub data for analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanzhai/github-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanzhai/github-data/issues"
+  },
+  "homepage": "https://github.com/stanzhai/github-data#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "github": "^9.2.0"
+  }
+}
